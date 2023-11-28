@@ -1,0 +1,123 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{71F560A7-3B45-422D-AF80-23DEEDA2A409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_perception_msgs", "autoware_auto_perception_msgs", "{83F0885A-BBC4-4D9D-ACAE-D3E996CAC801}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_perception_msgs_assembly_dotnetcore", "build\autoware_auto_perception_msgs\autoware_auto_perception_msgs_assembly\autoware_auto_perception_msgs_assembly_dotnetcore.csproj", "{5E4F5031-7BCF-492C-95C8-FDBB32AEF781}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_system_msgs", "autoware_auto_system_msgs", "{52CB4C69-FF9F-4B41-A26D-C722B2AF0258}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_system_msgs_assembly_dotnetcore", "build\autoware_auto_system_msgs\autoware_auto_system_msgs_assembly\autoware_auto_system_msgs_assembly_dotnetcore.csproj", "{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "blackandgold_msgs", "blackandgold_msgs", "{786953C0-CB41-40FC-8C97-73F604161494}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "blackandgold_msgs_assembly_dotnetcore", "build\blackandgold_msgs\blackandgold_msgs_assembly\blackandgold_msgs_assembly_dotnetcore.csproj", "{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_planning_msgs", "autoware_auto_planning_msgs", "{7157E6F4-47C3-49CB-AC35-C76664C72B7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_planning_msgs_assembly_dotnetcore", "build\autoware_auto_planning_msgs\autoware_auto_planning_msgs_assembly\autoware_auto_planning_msgs_assembly_dotnetcore.csproj", "{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "raptor_dbw_msgs", "raptor_dbw_msgs", "{8C3BADA4-6EF2-4A19-81FF-A9BA225CFD3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "raptor_dbw_msgs_assembly_dotnetcore", "build\raptor_dbw_msgs\raptor_dbw_msgs_assembly\raptor_dbw_msgs_assembly_dotnetcore.csproj", "{AF49EEC6-A439-4155-8590-FEA9A49E1809}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_debug_msgs", "autoware_auto_debug_msgs", "{CC26E4EF-5A82-41F4-B035-0F1A50DC6169}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_debug_msgs_assembly_dotnetcore", "build\autoware_auto_debug_msgs\autoware_auto_debug_msgs_assembly\autoware_auto_debug_msgs_assembly_dotnetcore.csproj", "{F60BD1A4-AF67-4B31-A843-5886D5059AB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_control_msgs", "autoware_auto_control_msgs", "{E1774B75-A6BC-424E-B7F5-8F5C45075ED4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_control_msgs_assembly_dotnetcore", "build\autoware_auto_control_msgs\autoware_auto_control_msgs_assembly\autoware_auto_control_msgs_assembly_dotnetcore.csproj", "{025D5252-8355-44C2-84C9-4F9DB5537BA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_mapping_msgs", "autoware_auto_mapping_msgs", "{237EB32D-EEE7-4AD7-AAFF-8C592194A219}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_mapping_msgs_assembly_dotnetcore", "build\autoware_auto_mapping_msgs\autoware_auto_mapping_msgs_assembly\autoware_auto_mapping_msgs_assembly_dotnetcore.csproj", "{7B0EA5FD-70D3-4625-A732-DC0464EB0618}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_geometry_msgs", "autoware_auto_geometry_msgs", "{3C7B14AB-15BB-4A0E-B8A0-C8F3A38A3DF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_geometry_msgs_assembly_dotnetcore", "build\autoware_auto_geometry_msgs\autoware_auto_geometry_msgs_assembly\autoware_auto_geometry_msgs_assembly_dotnetcore.csproj", "{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "autoware_auto_vehicle_msgs", "autoware_auto_vehicle_msgs", "{D2E9D916-4BDA-4DD9-8490-8407F174F5E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autoware_auto_vehicle_msgs_assembly_dotnetcore", "build\autoware_auto_vehicle_msgs\autoware_auto_vehicle_msgs_assembly\autoware_auto_vehicle_msgs_assembly_dotnetcore.csproj", "{CDE686C7-5810-46D8-B3DF-5A237EF34071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4F5031-7BCF-492C-95C8-FDBB32AEF781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4F5031-7BCF-492C-95C8-FDBB32AEF781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4F5031-7BCF-492C-95C8-FDBB32AEF781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4F5031-7BCF-492C-95C8-FDBB32AEF781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF49EEC6-A439-4155-8590-FEA9A49E1809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF49EEC6-A439-4155-8590-FEA9A49E1809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF49EEC6-A439-4155-8590-FEA9A49E1809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF49EEC6-A439-4155-8590-FEA9A49E1809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60BD1A4-AF67-4B31-A843-5886D5059AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60BD1A4-AF67-4B31-A843-5886D5059AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60BD1A4-AF67-4B31-A843-5886D5059AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60BD1A4-AF67-4B31-A843-5886D5059AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025D5252-8355-44C2-84C9-4F9DB5537BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025D5252-8355-44C2-84C9-4F9DB5537BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025D5252-8355-44C2-84C9-4F9DB5537BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025D5252-8355-44C2-84C9-4F9DB5537BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0EA5FD-70D3-4625-A732-DC0464EB0618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0EA5FD-70D3-4625-A732-DC0464EB0618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0EA5FD-70D3-4625-A732-DC0464EB0618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0EA5FD-70D3-4625-A732-DC0464EB0618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE686C7-5810-46D8-B3DF-5A237EF34071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE686C7-5810-46D8-B3DF-5A237EF34071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE686C7-5810-46D8-B3DF-5A237EF34071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE686C7-5810-46D8-B3DF-5A237EF34071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83F0885A-BBC4-4D9D-ACAE-D3E996CAC801} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{5E4F5031-7BCF-492C-95C8-FDBB32AEF781} = {83F0885A-BBC4-4D9D-ACAE-D3E996CAC801}
+		{52CB4C69-FF9F-4B41-A26D-C722B2AF0258} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{1BC47A3E-C69E-4F14-8A0A-ADFEF1DF374B} = {52CB4C69-FF9F-4B41-A26D-C722B2AF0258}
+		{786953C0-CB41-40FC-8C97-73F604161494} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{C0D25E3C-FDA4-4B21-A94F-6D4204454BD6} = {786953C0-CB41-40FC-8C97-73F604161494}
+		{7157E6F4-47C3-49CB-AC35-C76664C72B7D} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{3BC2E059-B485-483B-8FE7-8DDBAAE3A0FD} = {7157E6F4-47C3-49CB-AC35-C76664C72B7D}
+		{8C3BADA4-6EF2-4A19-81FF-A9BA225CFD3F} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{AF49EEC6-A439-4155-8590-FEA9A49E1809} = {8C3BADA4-6EF2-4A19-81FF-A9BA225CFD3F}
+		{CC26E4EF-5A82-41F4-B035-0F1A50DC6169} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{F60BD1A4-AF67-4B31-A843-5886D5059AB1} = {CC26E4EF-5A82-41F4-B035-0F1A50DC6169}
+		{E1774B75-A6BC-424E-B7F5-8F5C45075ED4} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{025D5252-8355-44C2-84C9-4F9DB5537BA2} = {E1774B75-A6BC-424E-B7F5-8F5C45075ED4}
+		{237EB32D-EEE7-4AD7-AAFF-8C592194A219} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{7B0EA5FD-70D3-4625-A732-DC0464EB0618} = {237EB32D-EEE7-4AD7-AAFF-8C592194A219}
+		{3C7B14AB-15BB-4A0E-B8A0-C8F3A38A3DF9} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{489D50E8-EB76-4F71-8F1F-0B4F6808DDC6} = {3C7B14AB-15BB-4A0E-B8A0-C8F3A38A3DF9}
+		{D2E9D916-4BDA-4DD9-8490-8407F174F5E5} = {71F560A7-3B45-422D-AF80-23DEEDA2A409}
+		{CDE686C7-5810-46D8-B3DF-5A237EF34071} = {D2E9D916-4BDA-4DD9-8490-8407F174F5E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526FEDF2-1656-44AF-9223-16B8BB859F34}
+	EndGlobalSection
+EndGlobal
